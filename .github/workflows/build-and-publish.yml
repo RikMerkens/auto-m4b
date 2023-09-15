@@ -31,4 +31,4 @@ jobs:
           context: .
           platforms: linux/arm64, linux/amd64
           push: true
-          tags: fakeflamingo/directorylister:latest  # replace 'user/repo' with your Docker Hub username/repository
+          tags: fakeflamingo/auto-m4b:latest  # replace 'user/repo' with your Docker Hub username/repository
